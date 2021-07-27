@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    height: 200px;
+}
+.alldiv{
+    overflow: hidden;
+}
+.nav{
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    height: 200px;
+    width: 30%;
+    float: left;
+}
+.nav2{
+    background-color: rgb(44, 44, 233);
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    height: 200px;
+    width: 60%;
+    float: left;
+}
+.nav3{
+    background-color: goldenrod;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    height: 200px;
+    width: 10%;
+    float: right;
+}
+.footer{
+    background-color: rgb(8, 233, 222);
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    height: 200px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
